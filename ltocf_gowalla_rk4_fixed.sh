@@ -1,0 +1,1 @@
+cd code && python main.py --dataset="gowalla" --model="ltocf" --solver="rk4" --adjoint=False --learnable_time=False --dual_res=False --K=4 --lr=1e-3 --decay=1e-4 --topks="[20]" --comment="fixed_time" --tensorboard=1 --gpuid=0
