@@ -1,5 +1,7 @@
 # LT-OCF: Learnable-Time ODE-based Collaborative Filtering
 
+[![Arxiv link](https://img.shields.io/static/v1?label=arXiv&message=LT-OCF&color=red&logo=arxiv)](https://arxiv.org/abs/2108.06208) [![BigDyL Link](https://img.shields.io/static/v1?label=&message=BigDyL&color=blue)](https://sites.google.com/view/npark/home?authuser=0)
+
 ## Our proposed LT-OCF
 
  <img src="img/lt-ocf.png" height="250">
