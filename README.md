@@ -2,6 +2,24 @@
 
 [![Arxiv link](https://img.shields.io/static/v1?label=arXiv&message=LT-OCF&color=red&logo=arxiv)](https://arxiv.org/abs/2108.06208) [![BigDyL Link](https://img.shields.io/static/v1?label=&message=BigDyL&color=blue)](https://sites.google.com/view/npark/home?authuser=0)
 
+## Introduction
+
+This is the repository of our accepted CIKM 2021 paper "LT-OCF: Learnable-Time ODE-based Collaborative Filtering". Paper is available on [arxiv](https://arxiv.org/abs/2108.06208)
+
+## Citation
+
+Please cite our paper if using this code.
+
+```
+@inproceedings{choi2021ltocf,
+  title={LT-OCF: Learnable-Time ODE-based Collaborative Filtering},
+  author={Choi, Jeongwhan and Jeon, Jinsung and Park, Noseong},
+  booktitle={Proceedings of the 30th ACM International Conference on Information and Knowledge Management},
+  year={2021},
+  organization={ACM}
+}
+```
+
 ## Our proposed LT-OCF
 
  <img src="img/lt-ocf.png" height="250">
