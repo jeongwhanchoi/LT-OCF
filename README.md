@@ -76,3 +76,11 @@ sh ltocf_gowalla_rk4_fixed.sh
     - True, False
 - dual_res
     - **False**, True
+
+---
+
+## Authors
+
+- Jeongwhan Choi (jeongwhan.choi@yonsei.ac.kr)
+- Jinsung Jeon (jjsjjs0902@yonsei.ac.kr)
+- Noseong Park (noseong@yonsei.ac.kr)
