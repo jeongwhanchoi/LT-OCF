@@ -2,6 +2,9 @@
 
 [![Arxiv link](https://img.shields.io/static/v1?label=arXiv&message=LT-OCF&color=red&logo=arxiv)](https://arxiv.org/abs/2108.06208) [![BigDyL Link](https://img.shields.io/static/v1?label=&message=BigDyL&color=blue)](https://sites.google.com/view/npark/home?authuser=0)
 
+ 	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lt-ocf-learnable-time-ode-based-collaborative/recommendation-systems-on-yelp2018)](https://paperswithcode.com/sota/recommendation-systems-on-yelp2018?p=lt-ocf-learnable-time-ode-based-collaborative) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lt-ocf-learnable-time-ode-based-collaborative/recommendation-systems-on-amazon-book)](https://paperswithcode.com/sota/recommendation-systems-on-amazon-book?p=lt-ocf-learnable-time-ode-based-collaborative) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lt-ocf-learnable-time-ode-based-collaborative/recommendation-systems-on-gowalla)](https://paperswithcode.com/sota/recommendation-systems-on-gowalla?p=lt-ocf-learnable-time-ode-based-collaborative)
+
 ## Introduction
 
 This is the repository of our accepted CIKM 2021 paper "LT-OCF: Learnable-Time ODE-based Collaborative Filtering". Paper is available on [arxiv](https://arxiv.org/abs/2108.06208)
@@ -76,11 +79,3 @@ sh ltocf_gowalla_rk4_fixed.sh
     - True, False
 - dual_res
     - **False**, True
-
----
-
-## Authors
-
-- Jeongwhan Choi (jeongwhan.choi@yonsei.ac.kr)
-- Jinsung Jeon (jjsjjs0902@yonsei.ac.kr)
-- Noseong Park (noseong@yonsei.ac.kr)
